@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Week1Day4</string>
+    <string name="keenan_wannop">Keenan Wannop</string>
+    <string name="atlanta_ga">Location: Atlanta, GA</string>
+    <string name="university_at_buffalo_b_s_in_computer_science">Education: University at Buffalo, B.S. in Computer Science</string>
+    <string name="profilepicture">profilePicture</string>
+    <string name="hobbies">Hobbies:</string>
+    <string name="hockey">Hockey</string>
+    <string name="basketball">Basketball</string>
+    <string name="video_games">Video Games</string>
+</resources>

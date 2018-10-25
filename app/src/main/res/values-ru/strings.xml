@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Week1Day4</string>
+    <string name="keenan_wannop">Keenan Wannop</string>
+    <string name="atlanta_ga">Расположение: Atlanta, GA</string>
+    <string name="university_at_buffalo_b_s_in_computer_science">Образования: University at Buffalo, B.S. в информатике</string>
+    <string name="profilepicture">profilePicture</string>
+    <string name="hobbies">Хобби:</string>
+    <string name="hockey">Хоккей</string>
+    <string name="basketball">Баскетбол</string>
+    <string name="video_games">Компьютерные игры</string>
+</resources>
